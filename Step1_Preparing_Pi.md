@@ -116,11 +116,16 @@ $ sudo apt-get clean
 $ sudo apt-get autoremove
 ```
 
-And lastly, let's open up our file system a bit more to include all available memory. In terminal:
+Next, let's open up our file system a bit more to include all available memory. In terminal:
 ```
 $ sudo raspi-config
 ```
 On the menu, select "Advanced Options" >> Navigate to "Expand File System" >> Hit "Enter" >> Hit "Finish"
+
+And lastly, let's update and upgrade all of our packages. In terminal:
+```
+$ sudo apt-get update && sudo apt-get upgrade
+```
 
 Reboot.
 ```
@@ -128,4 +133,4 @@ $ sudo shutdown now -r
 ```
 
 ## Next Up..
-Let's move on to Step 2 in our project- Installing & Compiling Python 3, OpenCV, and Dependencies. See you there!
+Let's move on to Step 2 in our project- The Build. See you there!
