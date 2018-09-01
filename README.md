@@ -8,7 +8,7 @@ This is an Facial Recognition project using Python3/OpenCV, deployed on a Raspbe
 This project is aimed at users of all levels. In general, I will be concise in my instruction, but will elaborate on harder-to-grasp concepts to ensure clarity. Over time, I will update this repo with practical applications for this project, but will not update instructions for prior commits. Have fun!
 
 
-### Prerequisites
+## Prerequisites
 
 A few programs to install prior to this tutorial:
 
