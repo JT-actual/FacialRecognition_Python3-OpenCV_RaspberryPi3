@@ -1,6 +1,6 @@
 
 # Step 1: Preparing your Raspberry Pi
-In this step, we will prepare our Pi for our Py/OpenCV build. We will cover hardware setup, flashing Raspbian, SSH, and freeing up space on our drive. If you're more advanced than this, don't lose faith: shit will hit the fan soon. Just skim this and feel free to move on to the Step 2 file.
+In this step, we will prepare our Pi for our Py/OpenCV build. We will cover hardware setup, flashing Raspbian, SSH, and freeing up space on our drive. If you're more advanced than this, feel free to skim this and move on to the Step 2 file.
 
 
 ### Flashing Raspbian & Formatting Drives
