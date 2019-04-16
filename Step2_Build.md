@@ -2,7 +2,7 @@
 In this step, we will cover Installing & Compiling Python 3, OpenCV, and Dependencies. Let's get started!
 
 ### Dependencies
-In order for OpenCV to work properly, we need to load in a handful of dependencies ranging from dev tools to image and video libraries. Special thanks to Adrian Rosebrock @ PyImageSearch, as I referenced his content to ensure I structured this part of the tutorial properly.
+In order for OpenCV to work properly, we need to load in a handful of dependencies ranging from dev tools to image and video libraries. 
 
 First up, if you did not update & upgrade all packages in the last step, please do so now. In terminal:
 ```
@@ -83,7 +83,7 @@ $ mkvirtualenv cv -p python3
 ```
 Done. That wasnt so hard was it?
 
-One thing to point out: As mentioned by Adrian, once we create our virtual environment, we do not need to keep using mkvirtualenv to revisit our virtual environment. 
+Once we create our virtual environment, we do not need to keep using mkvirtualenv to revisit our virtual environment. 
 To revisit our virtual environment, we must execute the following command:
 ```
 $ source ~/.profile
@@ -124,7 +124,7 @@ Libraries:                some/path/here/libpython3.xx.xx (version x.x.x)
 Interpereter:             some/path/here/python3.x/somepath/pointingto/numpy (version x.xx.x) 
 ```
 
-Another great tip from Adrian's blog- increasing swapfile space for the compiling process to help prevent hanging. It is very important to remember to change this back afterwe have compiled!!! Not doing so could corrupt your SD memory!
+Another great tip from Adrian's blog- increasing swapfile space for the compiling process to help prevent hanging. It is very important to remember to change this back after we have compiled. Not doing so could corrupt your SD memory!
 To do so:
 ```
 $ sudo nano /etc/dphys-swapfile
@@ -219,5 +219,5 @@ $ sudo /etc/init.d/dphys-swapfile start
 
 
 ### Great work!
-This part has been rough, but you made it through. Join me now on Step 3. The fun is about to start!
+Join me now on Step 3. The fun is about to start!
 
