@@ -80,7 +80,7 @@ In my case, this looks like:
 ```
 $ ssh pi@10.0.0.136
 ```
-Enter the password you set during the initial setup of Raspbian. If you did not set a password, the default is "raspberry."
+Enter the password you set during the initial setup of Raspbian. If you did not set a password, the default is "raspberry"
 
 Note: Get a crazy man-in-the-middle warning that looks like this?
 ```
