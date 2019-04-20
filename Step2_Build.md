@@ -58,7 +58,7 @@ Next, we need to construct our virtual environment to house our build.
 First, let's bring in virtualenv/wrapper and clear out our pip cache:
 ```
 $ sudo pip install virtualenv virtualenvwrapper
-$ sudo rm ~/.cache/pip
+$ sudo rm -rf ~/.cache/pip
 ```
 Now lets modify our ~./profile file to reflect our virtualenv.
 ```
