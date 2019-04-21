@@ -1,11 +1,11 @@
 # Facial Recognition with Python 3 & OpenCV on Raspberry Pi 3
 
-This is an Facial Recognition project using Python3/OpenCV, deployed on a Raspberry Pi 3. This will serve as a step by step comprehensive guide to build a a facial recognition program upon a RPI3, from initial flashing to finish. 
+This is an Facial Recognition project using Python3/OpenCV, deployed on a Raspberry Pi 3 B+. This will serve as a step by step comprehensive guide to build a a facial recognition program upon a RPI3, from initial flashing to finish. 
 
 
 ## Getting Started
 
-This project is aimed at users of all levels. In general, I will be concise in my instruction, but will elaborate on harder-to-grasp concepts to ensure clarity. Over time, I will update this repo with practical applications for this project, but will not update instructions for prior commits. Have fun!
+This project is aimed at the intermediate+ community, but beginners can figure it our with a little elbow grease. Have fun!
 
 
 ## Prerequisites
@@ -29,11 +29,11 @@ Raspbian Stretch w/ Desktop (.zip) (4.14) [https://www.raspberrypi.org/downloads
 * [Patience & Perseverance!]
 
 
-## Authors
+## Author
 
 * **Joshua Thomas** - (https://github.com/JoshThomas21)
 
 
 ## Acknowledgments
 
-* Special thanks to Adrian Rosebrock for helping me get out of a few ruts in this project!
+* Special thanks to Adrian Rosebrock @ PyImageSearch and Marcelo @ MJRoBot for the great tutorials, which helped me slog through the first half of this project. I'm not sure I could have gotten through this so easily without your help!
