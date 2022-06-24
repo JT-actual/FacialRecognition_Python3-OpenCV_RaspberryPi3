@@ -21,7 +21,7 @@ Raspbian Stretch w/ Desktop (.zip) (4.14) [https://www.raspberrypi.org/downloads
 
 ## Built With
 
-* [Raspberry Pi # B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) - The web framework used
+* [Raspberry Pi # B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 * [32GB MicroSD Card] - Primary storage
 * [64GB USB Stick] - For additional storage
 * [Arducam 5 Megapixels 1080p Sensor OV5647](https://www.amazon.com/gp/product/B012V1HEP4/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) - Our camera for the project
